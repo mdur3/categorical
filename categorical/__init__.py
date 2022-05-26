@@ -1,1 +1,1 @@
-from cat import Categorical
+.from cat import Categorical
